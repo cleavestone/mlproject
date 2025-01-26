@@ -1,0 +1,4 @@
+[ 2025-01-26 07:38:54,911 ] 22 - root - INFO - This is an information message
+[ 2025-01-26 07:38:54,912 ] 23 - root - WARNING - This is a warning message
+[ 2025-01-26 07:38:54,912 ] 24 - root - ERROR - This is an error message
+[ 2025-01-26 07:38:54,912 ] 25 - root - CRITICAL - This is a critical message
